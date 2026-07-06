@@ -1,0 +1,96 @@
+team_id,team_name,discipline,country_code,country,num_athletes
+1,United States Triathlon,Triathlon,USA,United States,11
+2,United States Diving,Diving,USA,United States,5
+3,United States Swimming,Swimming,USA,United States,9
+4,United States Volleyball,Volleyball,USA,United States,10
+5,China Taekwondo,Taekwondo,CHN,China,11
+6,China Swimming,Swimming,CHN,China,2
+7,Japan Swimming,Swimming,JPN,Japan,2
+8,Japan Triathlon,Triathlon,JPN,Japan,7
+9,Great Britain Volleyball,Volleyball,GBR,Great Britain,12
+10,Great Britain Rowing,Rowing,GBR,Great Britain,3
+11,Great Britain Shooting,Shooting,GBR,Great Britain,4
+12,Great Britain Weightlifting,Weightlifting,GBR,Great Britain,12
+13,Great Britain Hockey,Hockey,GBR,Great Britain,11
+14,ROC Fencing,Fencing,ROC,ROC,11
+15,ROC Basketball,Basketball,ROC,ROC,2
+16,Australia Weightlifting,Weightlifting,AUS,Australia,9
+17,Australia Taekwondo,Taekwondo,AUS,Australia,12
+18,Australia Triathlon,Triathlon,AUS,Australia,10
+19,Australia Cycling Road,Cycling Road,AUS,Australia,2
+20,Australia Basketball,Basketball,AUS,Australia,5
+21,Australia Rowing,Rowing,AUS,Australia,2
+22,Netherlands Hockey,Hockey,NED,Netherlands,10
+23,Netherlands Judo,Judo,NED,Netherlands,4
+24,France Archery,Archery,FRA,France,7
+25,France Judo,Judo,FRA,France,5
+26,France Badminton,Badminton,FRA,France,3
+27,France Triathlon,Triathlon,FRA,France,1
+28,Germany Hockey,Hockey,GER,Germany,1
+29,Germany Judo,Judo,GER,Germany,11
+30,Germany Golf,Golf,GER,Germany,2
+31,Germany Table Tennis,Table Tennis,GER,Germany,2
+32,Germany Wrestling,Wrestling,GER,Germany,10
+33,Germany Athletics,Athletics,GER,Germany,11
+34,Italy Cycling Road,Cycling Road,ITA,Italy,5
+35,Italy Gymnastics,Gymnastics,ITA,Italy,11
+36,Italy Archery,Archery,ITA,Italy,4
+37,Italy Golf,Golf,ITA,Italy,8
+38,Italy Rowing,Rowing,ITA,Italy,5
+39,Canada Football,Football,CAN,Canada,1
+40,Canada Swimming,Swimming,CAN,Canada,5
+41,Canada Rowing,Rowing,CAN,Canada,6
+42,Canada Boxing,Boxing,CAN,Canada,11
+43,Brazil Basketball,Basketball,BRA,Brazil,1
+44,Brazil Golf,Golf,BRA,Brazil,3
+45,Brazil Rowing,Rowing,BRA,Brazil,11
+46,Brazil Swimming,Swimming,BRA,Brazil,11
+47,New Zealand Table Tennis,Table Tennis,NZL,New Zealand,10
+48,New Zealand Badminton,Badminton,NZL,New Zealand,5
+49,New Zealand Football,Football,NZL,New Zealand,12
+50,Cuba Badminton,Badminton,CUB,Cuba,3
+51,Cuba Table Tennis,Table Tennis,CUB,Cuba,2
+52,Hungary Volleyball,Volleyball,HUN,Hungary,7
+53,Hungary Football,Football,HUN,Hungary,11
+54,Hungary Weightlifting,Weightlifting,HUN,Hungary,3
+55,Hungary Triathlon,Triathlon,HUN,Hungary,2
+56,Hungary Hockey,Hockey,HUN,Hungary,3
+57,South Korea Boxing,Boxing,KOR,South Korea,7
+58,South Korea Rowing,Rowing,KOR,South Korea,10
+59,Poland Sailing,Sailing,POL,Poland,7
+60,Poland Canoe Sprint,Canoe Sprint,POL,Poland,6
+61,Poland Football,Football,POL,Poland,10
+62,Poland Boxing,Boxing,POL,Poland,1
+63,Poland Taekwondo,Taekwondo,POL,Poland,11
+64,Czech Republic Hockey,Hockey,CZE,Czech Republic,8
+65,Czech Republic Rowing,Rowing,CZE,Czech Republic,1
+66,Czech Republic Basketball,Basketball,CZE,Czech Republic,2
+67,Kenya Diving,Diving,KEN,Kenya,11
+68,Kenya Table Tennis,Table Tennis,KEN,Kenya,9
+69,Kenya Athletics,Athletics,KEN,Kenya,12
+70,Kenya Triathlon,Triathlon,KEN,Kenya,10
+71,Norway Wrestling,Wrestling,NOR,Norway,7
+72,Norway Canoe Sprint,Canoe Sprint,NOR,Norway,11
+73,Norway Table Tennis,Table Tennis,NOR,Norway,12
+74,Norway Archery,Archery,NOR,Norway,4
+75,Norway Diving,Diving,NOR,Norway,8
+76,Norway Rowing,Rowing,NOR,Norway,6
+77,Jamaica Cycling Road,Cycling Road,JAM,Jamaica,11
+78,Jamaica Shooting,Shooting,JAM,Jamaica,3
+79,Jamaica Taekwondo,Taekwondo,JAM,Jamaica,9
+80,Jamaica Swimming,Swimming,JAM,Jamaica,8
+81,Jamaica Athletics,Athletics,JAM,Jamaica,8
+82,Spain Gymnastics,Gymnastics,ESP,Spain,4
+83,Spain Hockey,Hockey,ESP,Spain,6
+84,Spain Table Tennis,Table Tennis,ESP,Spain,5
+85,Sweden Archery,Archery,SWE,Sweden,9
+86,Sweden Wrestling,Wrestling,SWE,Sweden,11
+87,Switzerland Volleyball,Volleyball,SUI,Switzerland,8
+88,Switzerland Wrestling,Wrestling,SUI,Switzerland,2
+89,Switzerland Gymnastics,Gymnastics,SUI,Switzerland,8
+90,Switzerland Football,Football,SUI,Switzerland,8
+91,Switzerland Sailing,Sailing,SUI,Switzerland,6
+92,Denmark Hockey,Hockey,DEN,Denmark,11
+93,Denmark Golf,Golf,DEN,Denmark,1
+94,India Volleyball,Volleyball,IND,India,1
+95,India Basketball,Basketball,IND,India,9

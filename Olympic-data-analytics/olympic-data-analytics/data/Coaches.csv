@@ -1,0 +1,121 @@
+coach_id,name,country_code,country,discipline,event
+1,Ava Yamamoto,GBR,Great Britain,Archery,Team
+2,Ava Yamamoto,KEN,Kenya,Swimming,Individual
+3,Kenji Kim,GER,Germany,Table Tennis,Individual
+4,Priya Garcia,GER,Germany,Wrestling,Team
+5,Ethan Yamamoto,GBR,Great Britain,Cycling Road,Team
+6,Kofi Garcia,CAN,Canada,Basketball,
+7,Li Garcia,ITA,Italy,Football,Individual
+8,Noah Silva,IND,India,Canoe Sprint,Individual
+9,Mason Nguyen,ROC,ROC,Gymnastics,Team
+10,Sofia Fischer,CHN,China,Canoe Sprint,Individual
+11,Yuki Smith,NZL,New Zealand,Football,Team
+12,Kofi Tanaka,IND,India,Cycling Road,Team
+13,Liam Dubois,ROC,ROC,Judo,Individual
+14,Ava Yamamoto,KEN,Kenya,Weightlifting,Team
+15,Noah Muller,JAM,Jamaica,Football,Team
+16,Carlos Tanaka,CHN,China,Football,Team
+17,Tom Novak,SUI,Switzerland,Volleyball,Individual
+18,Sven Novak,AUS,Australia,Badminton,Team
+19,Wei Rossi,HUN,Hungary,Cycling Road,Team
+20,Ivan Kovac,CUB,Cuba,Shooting,Individual
+21,Noah Rossi,NZL,New Zealand,Cycling Road,Individual
+22,Hiroshi Dubois,JAM,Jamaica,Shooting,Team
+23,Aisha Kovac,CZE,Czech Republic,Hockey,Individual
+24,Sofia Rossi,AUS,Australia,Athletics,Individual
+25,James Rossi,CHN,China,Hockey,Individual
+26,Lucas Tanaka,FRA,France,Canoe Sprint,Team
+27,Sara Johnson,DEN,Denmark,Wrestling,Individual
+28,Yuki Silva,FRA,France,Sailing,Individual
+29,Nina Smith,SWE,Sweden,Triathlon,Individual
+30,Tom Muller,IND,India,Hockey,Individual
+31,Diego Johnson,JPN,Japan,Swimming,Team
+32,James Fischer,KOR,South Korea,Athletics,Individual
+33,Ethan Nguyen,SWE,Sweden,Boxing,Individual
+34,James Kowalski,KEN,Kenya,Triathlon,Team
+35,Hiroshi Patel,JPN,Japan,Badminton,Individual
+36,Carlos Kim,CAN,Canada,Cycling Road,Team
+37,Clara Nguyen,AUS,Australia,Triathlon,Individual
+38,Tom Silva,NZL,New Zealand,Fencing,Individual
+39,Lucas Smith,SWE,Sweden,Sailing,Individual
+40,Lucas Ivanov,CAN,Canada,Taekwondo,Team
+41,Diego Kowalski,CAN,Canada,Golf,Team
+42,Marco Nguyen,AUS,Australia,Diving,Team
+43,Ingrid Smith,GER,Germany,Judo,Team
+44,Marco Rossi,IND,India,Rowing,Team
+45,Sven Garcia,SUI,Switzerland,Basketball,Team
+46,Clara Andersson,BRA,Brazil,Shooting,Individual
+47,Diego Yamamoto,JAM,Jamaica,Canoe Sprint,Team
+48,Kofi Wang,IND,India,Swimming,Individual
+49,Carlos Rossi,GBR,Great Britain,Gymnastics,Individual
+50,Sven Silva,SUI,Switzerland,Gymnastics,Team
+51,Lea Ivanov,KOR,South Korea,Triathlon,Team
+52,Yuki Ivanov,CUB,Cuba,Boxing,Team
+53,Carlos Muller,NED,Netherlands,Basketball,Individual
+54,Anna Dubois,GBR,Great Britain,Swimming,Individual
+55,Mia Johnson,BRA,Brazil,Athletics,Individual
+56,Ivan Ivanov,KOR,South Korea,Judo,Team
+57,Mason Silva,JAM,Jamaica,Fencing,Team
+58,Sophia Kim,IND,India,Volleyball,Individual
+59,Maria Wang,JAM,Jamaica,Shooting,Individual
+60,Marco Andersson,BRA,Brazil,Boxing,Individual
+61,Wei Garcia,HUN,Hungary,Weightlifting,Team
+62,Nina Johnson,ROC,ROC,Triathlon,Team
+63,Marco Hansen,CUB,Cuba,Sailing,Team
+64,Sven Fischer,CUB,Cuba,Shooting,Individual
+65,Diego Kim,JPN,Japan,Volleyball,Team
+66,Oliver Garcia,AUS,Australia,Boxing,Team
+67,Ethan Johnson,CUB,Cuba,Gymnastics,Individual
+68,Ethan Ivanov,GER,Germany,Table Tennis,Team
+69,Sven Hansen,NZL,New Zealand,Shooting,Individual
+70,Julia Garcia,USA,United States,Triathlon,Individual
+71,Raj Kowalski,ROC,ROC,Sailing,Team
+72,Tom Tanaka,IND,India,Fencing,Individual
+73,Maria Andersson,JAM,Jamaica,Hockey,Individual
+74,Lucas Rossi,NZL,New Zealand,Cycling Road,Individual
+75,Sven Nguyen,SWE,Sweden,Wrestling,Team
+76,Maria Patel,USA,United States,Table Tennis,Individual
+77,Maria Kovac,SWE,Sweden,Canoe Sprint,Team
+78,Ethan Kim,SUI,Switzerland,Football,Individual
+79,Nadia Ivanov,JAM,Jamaica,Gymnastics,Team
+80,Li Novak,SUI,Switzerland,Hockey,Individual
+81,Hiroshi Silva,JPN,Japan,Fencing,Individual
+82,Hiroshi Yamamoto,USA,United States,Boxing,Team
+83,Liam Dubois,CHN,China,Football,Team
+84,Li Rossi,BRA,Brazil,Football,Individual
+85,James Dubois,BRA,Brazil,Hockey,Individual
+86,Diego Yamamoto,CZE,Czech Republic,Badminton,Individual
+87,Wei Wang,ITA,Italy,Athletics,Individual
+88,Lucas Yamamoto,DEN,Denmark,Judo,Team
+89,Mason Rossi,JAM,Jamaica,Basketball,Team
+90,Diego Kowalski,JAM,Jamaica,Boxing,Team
+91,Wei Ivanov,IND,India,Fencing,Individual
+92,Sofia Patel,HUN,Hungary,Weightlifting,Team
+93,Anna Fischer,NOR,Norway,Volleyball,Team
+94,Hiroshi Patel,CZE,Czech Republic,Diving,Individual
+95,Sophia Kovac,JPN,Japan,Table Tennis,Individual
+96,Maria Rossi,JAM,Jamaica,Triathlon,
+97,Ethan Fischer,DEN,Denmark,Wrestling,Team
+98,Priya Kowalski,SUI,Switzerland,Athletics,Individual
+99,Maria Novak,NZL,New Zealand,Volleyball,Team
+100,Carlos Dubois,ESP,Spain,Shooting,Individual
+101,Julia Kim,AUS,Australia,Canoe Sprint,Team
+102,Sophia Kovac,ROC,ROC,Golf,
+103,Carlos Wang,FRA,France,Badminton,Team
+104,Nadia Nguyen,BRA,Brazil,Weightlifting,
+105,Sophia Kovac,CHN,China,Diving,Team
+106,Li Fischer,GBR,Great Britain,Canoe Sprint,Individual
+107,Nadia Johnson,ROC,ROC,Cycling Road,Team
+108,Nadia Yamamoto,HUN,Hungary,Cycling Road,Individual
+109,Noah Kovac,CAN,Canada,Diving,Team
+110,Olivia Smith,HUN,Hungary,Weightlifting,Team
+111,Tom Silva,KOR,South Korea,Gymnastics,Team
+112,Nadia Andersson,CUB,Cuba,Hockey,
+113,Liam Hansen,NED,Netherlands,Golf,Individual
+114,Carlos Fischer,NED,Netherlands,Athletics,Team
+115,Kenji Patel,ITA,Italy,Cycling Road,Team
+116,Julia Yamamoto,ITA,Italy,Boxing,Team
+117,Ivan Kim,HUN,Hungary,Golf,Individual
+118,Mia Nguyen,KOR,South Korea,Badminton,Team
+119,Sven Smith,FRA,France,Wrestling,Team
+120,James Yamamoto,POL,Poland,Boxing,Team
